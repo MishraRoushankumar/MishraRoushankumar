@@ -1,43 +1,67 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hi, I'm Roushan Kumar Mishra 👋
 
-###
+[![Website Badge](https://img.shields.io/badge/Portfolio-Online-blue)](https://mishraroushankumar.github.io/mishraroushankumar/)
+[![GitHub Followers](https://img.shields.io/github/followers/mishraroushankumar?label=Follow&style=social)](https://github.com/mishraroushankumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roushan%20Kumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roushankumar/)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+I am a **Computer Science and Engineering student** passionate about **software development, web development, and technology innovation**. I enjoy **learning new technologies** and applying them to real-world projects.  
 
-###
+- 🎓 Currently in **3rd year B.Tech (CSE)** in Uttar Pradesh, India  
+- 💼 Interested in **Web Development, Full Stack Development, and Machine Learning**  
+- 🌱 Always learning and exploring new tech, frameworks, and tools  
+- ⚡ Fun fact: I love **building sleek, responsive, and interactive web interfaces**  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 💻 Skills
+
+### Programming Languages
+- **Python** | **C++** | **JavaScript** | **SQL**
+
+### Web Development
+- **Frontend:** HTML5, CSS3, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL, PostgreSQL  
+
+### Tools & Platforms
+- Git & GitHub | VS Code | Linux & Windows Dual Boot  
+- Figma (UI Design) | Notion (Project Management) | Anaconda (ML)  
+
+### Others
+- Data Structures & Algorithms  
+- Machine Learning Basics  
+- Problem Solving & Competitive Programming  
+
+---
+
+## 🏗️ Projects
+
+Here are some highlights of my work:
+
+- **Personal Portfolio Website** – Modern dark-themed responsive portfolio with interactive sections. 
+- **Machine Learning Experiments** – Small ML projects exploring datasets, preprocessing, and model evaluation.  
+- **Web Development Projects** – Frontend and Full Stack web applications showcasing skills in React and Node.js.  
+
+> Check out more projects in my [GitHub repositories](https://github.com/mishraroushankumar?tab=repositories)
+
+---
+
+## 🌟 GitHub Stats
+
+![Roushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishraroushankumar&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Roushan Kumar](https://www.linkedin.com/in/roushankumar/)  
+- **Twitter:** [@RoushanKumar](https://twitter.com/roushankumar)  
+- **Email:** roushan.mishra@example.com  
+
+---
+
+> “Strive for continuous improvement, instead of perfection.” – Kim Collins
