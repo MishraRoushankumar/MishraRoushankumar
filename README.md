@@ -28,7 +28,7 @@ I am a **Computer Science and Engineering student** passionate about **software 
 - **Database:** MySQL, PostgreSQL  
 
 ### Tools & Platforms
-- Git & GitHub | VS Code | Linux & Windows Dual Boot  
+- Git & GitHub | VS Code | Linux & Windows  
 - Figma (UI Design) | Notion (Project Management) | Anaconda (ML)  
 
 ### Others
@@ -40,11 +40,10 @@ I am a **Computer Science and Engineering student** passionate about **software 
 
 ## 🏗️ Projects
 
-Here are some highlights of my work:
 
-- **Personal Portfolio Website** – Modern dark-themed responsive portfolio with interactive sections. 
-- **Machine Learning Experiments** – Small ML projects exploring datasets, preprocessing, and model evaluation.  
-- **Web Development Projects** – Frontend and Full Stack web applications showcasing skills in React and Node.js.  
+  **Coming Soon**
+
+  
 
 > Check out more projects in my [GitHub repositories](https://github.com/mishraroushankumar?tab=repositories)
 
