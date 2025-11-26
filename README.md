@@ -51,7 +51,7 @@ I am a **Computer Science and Engineering student** passionate about **software 
 
 ## 🌟 GitHub Stats
 
-![Roushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishraroushankumar&show_icons=true&theme=dark&count_private=true)
+![Roushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishraroushankumar&show_icons=true&theme=dark&count_private=false)
 
 ---
 
