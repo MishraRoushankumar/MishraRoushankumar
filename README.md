@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science and Engineering student** passionate about **software development, web development, and technology innovation**. I enjoy **learning new technologies** and applying them to real-world projects.  
+I am a **Computer Science and Engineering student** passionate about **software development, web development, and technology innovation**. I enjoy **learning new technologies** and applying them t[...]
 
 - 🎓 Currently in **3rd year B.Tech (CSE)** in Uttar Pradesh, India  
 - 💼 Interested in **Web Development, Full Stack Development, and Machine Learning**  
 - 🌱 Always learning and exploring new tech, frameworks, and tools  
-- ⚡ Fun fact: I love **building sleek, responsive, and interactive web interfaces**  
+- ⚡ Fun fact: I love **building sleek, responsive, and interactive web interfaces**
 
 ---
 
@@ -34,16 +34,13 @@ I am a **Computer Science and Engineering student** passionate about **software 
 ### Others
 - Data Structures & Algorithms  
 - Machine Learning Basics  
-- Problem Solving & Competitive Programming  
+- Problem Solving & Competitive Programming
 
 ---
 
 ## 🏗️ Projects
 
-
-  **Coming Soon**
-
-  
+- [shard-cli](https://github.com/MishraRoushankumar/shard-cli) — A lightweight Node.js command-line tool to scaffold and manage modular packages ("shards"). Features project scaffolding, dependency helpers, and plugin support to speed up development.
 
 > Check out more projects in my [GitHub repositories](https://github.com/mishraroushankumar?tab=repositories)
 
@@ -59,7 +56,7 @@ I am a **Computer Science and Engineering student** passionate about **software 
 
 - **LinkedIn:** [Roushan Kumar](https://www.linkedin.com/in/roushankumar/)  
 - **Twitter:** [@RoushanKumar](https://twitter.com/roushankumar)  
-- **Email:** roushan.mishra@example.com  
+- **Email:** roushan.mishra@example.com
 
 ---
 
