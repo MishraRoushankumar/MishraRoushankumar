@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-Online-blue)](https://mishraroushankumar.github.io/mishraroushankumar/)
 [![GitHub Followers](https://img.shields.io/github/followers/mishraroushankumar?label=Follow&style=social)](https://github.com/mishraroushankumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roushan%20Kumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roushankumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roushan%20Kumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roushankumarmishra/)
 
 ---
 
@@ -54,9 +54,9 @@ I am a **Computer Science and Engineering student** passionate about **software 
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Roushan Kumar](https://www.linkedin.com/in/roushankumar/)  
-- **Twitter:** [@RoushanKumar](https://twitter.com/roushankumar)  
-- **Email:** roushan.mishra@example.com
+- **LinkedIn:** [Roushankumar Mishra](https://www.linkedin.com/in/roushankumarmishra/)  
+- **X (Twitter):** [@Roushankum1507](https://x.com/Roushankum1507)  
+- **Email:** mishraroushan455@gmail.com
 
 ---
 
