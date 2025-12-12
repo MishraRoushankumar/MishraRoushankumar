@@ -48,7 +48,9 @@ I am a **Computer Science and Engineering student** passionate about **software 
 
 ## 🌟 GitHub Stats
 
-![Roushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MishraRoushankumar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![MishraRoushankumar's Stats](https://github-readme-stats.vercel.app/api?username=MishraRoushankumar&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![MishraRoushankumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishraRoushankumar&theme=gruvbox&hide_border=false)
+![MishraRoushankumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraRoushankumar&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
