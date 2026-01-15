@@ -46,13 +46,6 @@ I am a **Computer Science and Engineering student** passionate about **software 
 
 ---
 
-## 🌟 GitHub Stats
-
-![MishraRoushankumar's Stats](https://github-readme-stats.vercel.app/api?username=MishraRoushankumar&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-![MishraRoushankumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraRoushankumar&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
-
----
-
 ## 📫 Connect with Me
 
 - **LinkedIn:** [Roushankumar Mishra](https://www.linkedin.com/in/roushankumarmishra/)  
