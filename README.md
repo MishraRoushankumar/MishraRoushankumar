@@ -1,4 +1,4 @@
-# Hi, I'm Roushan Kumar Mishra 👋
+# Hi, I'm Roushankumar Mishra 👋
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-Online-blue)](https://mishraroushankumar.github.io/mishraroushankumar/)
 [![GitHub Followers](https://img.shields.io/github/followers/mishraroushankumar?label=Follow&style=social)](https://github.com/mishraroushankumar)
