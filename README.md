@@ -2,7 +2,6 @@
 
 | <sub>01 / SYSTEM PROFILE</sub> |
 | ------------------------------ |
-|                                |
 
 # Roushankumar Mishra
 
@@ -15,7 +14,6 @@
 
 </div>
 
----
 
 ---
 
@@ -23,7 +21,6 @@
 
 | <sub>02 / ABOUT</sub> |
 | --------------------- |
-|                       |
 
 </div>
 
@@ -38,13 +35,11 @@
 
 ---
 
----
 
 <div align="center">
 
 | <sub>03 / SELECTED WORK</sub> |
 | ----------------------------- |
-|                               |
 
 </div>
 
@@ -78,13 +73,11 @@ A lightweight developer-focused CLI and web application exploring OAuth, device 
 
 ---
 
----
 
 <div align="center">
 
 | <sub>04 / TECHNOLOGY</sub> |
 | -------------------------- |
-|                            |
 
 <table>
 <tr>
@@ -173,7 +166,6 @@ and continuous iteration.
 
 </div>
 
----
 
 ---
 
@@ -183,7 +175,6 @@ and continuous iteration.
 
 | <sub>05 / CURRENTLY EXPLORING</sub> |
 | ----------------------------------- |
-|                                     |
 
 <table>
 <tr>
@@ -229,7 +220,6 @@ real-world applications.
 
 <!-- Currently Exploring will be added next -->
 
----
 
 ---
 
@@ -237,6 +227,5 @@ real-world applications.
 
 | <sub>BUILDING · LEARNING · ITERATING</sub> |
 | ------------------------------------------ |
-|                                            |
 
 </div>
