@@ -7,7 +7,7 @@
 
 ### Backend Engineer · Full-Stack Developer · ML Practitioner
 
-![Contributions](https://img.shields.io/badge/contributions-615%2Fyear-success?style=flat-square)
+![Contributions](https://img.shields.io/badge/contributions-600%2Fyear-success?style=flat-square)
 ![Repositories](https://img.shields.io/badge/repositories-6+-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-backend%20%2B%20ML-blueviolet?style=flat-square)
 
@@ -243,13 +243,13 @@ detection with production deployment.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MishraRoushankumar&show_icons=true&theme=dark&hide=prs&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MishraRoushankumar&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraRoushankumar&layout=compact&theme=dark&langs_count=6)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=MishraRoushankumar&layout=donut&langs_count=6&theme=chartreuse-dark)
 
 </div>
 
