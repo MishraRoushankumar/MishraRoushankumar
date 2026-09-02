@@ -243,14 +243,8 @@ detection with production deployment.
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MishraRoushankumar&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=MishraRoushankumar&layout=donut&langs_count=6&theme=chartreuse-dark)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MishraRoushankumar&layout=donut&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MishraRoushankumar&layout=donut&langs_count=5&theme=chartreuse-dark)
 </div>
 
 ---
