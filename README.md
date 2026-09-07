@@ -11,7 +11,7 @@
 ![Repositories](https://img.shields.io/badge/repositories-6+-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-backend%20%2B%20ML-blueviolet?style=flat-square)
 
-[🌐 Portfolio](https://roushankumar.vercel.app/) ·
+[🌐 Portfolio](https://www.roushankumar.in/) ·
 [💼 LinkedIn](https://www.linkedin.com/in/roushankumarmishra/) ·
 [𝕏 Twitter](https://x.com/Roushank1507) ·
 [✉️ Email](mailto:mishraroushankumar57@gmail.com)
