@@ -56,21 +56,7 @@ A full-featured HTTP client built from scratch with workspace management, reques
 
 ---
 
-### 💰 02 — LedgerSense
-
-**Personal finance platform for expense tracking & financial insights.**
-
-Track transactions, visualize spending patterns, understand financial activity with beautiful dashboards and analytics.
-
-`Next.js` · `TypeScript` · `Express.js` · `PostgreSQL` · `Drizzle ORM`
-
-**Features:** Expense Tracking • Financial Analytics • Transaction Categorization • Budget Insights
-
-![Frontend](https://img.shields.io/badge/Frontend-View-61DAFB?style=flat-square&logo=react) [Frontend](https://github.com/MishraRoushankumar/expenseTracker-Frontend) · ![Backend](https://img.shields.io/badge/Backend-View-339933?style=flat-square&logo=node.js) [Backend](https://github.com/MishraRoushankumar/expenseTracker-Backend)
-
----
-
-### 💻 03 — Shard CLI
+### 💻 02 — Shard CLI
 
 **Developer-focused CLI tool exploring OAuth, device authorization & terminal interaction.**
 
